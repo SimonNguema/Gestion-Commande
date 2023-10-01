@@ -147,7 +147,7 @@ a:focus, a:hover { text-decoration: none; color: #f85759; }
           </div>
 
           <div class="col-lg-6 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="200">
-            <img src="https://dakarfooddelivery.com/uploads/restaurant/LA-CORNE-DOR-fr1678041092.jpg" class="img-fluid" alt="">
+            <img src="https://img.freepik.com/photos-gratuite/femme-noire-assise-dans-cafe_1157-18883.jpg?w=996&t=st=1696201040~exp=1696201640~hmac=4e3a9195bdd1d929acfa3cb05e31a95096fd1debac234e65fca8e285ff410474" class="img-fluid" alt="">
           </div>
 
         </div>
