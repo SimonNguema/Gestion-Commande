@@ -28,8 +28,12 @@ use App\Http\Controllers\CommandeController;
 |
 */
 
+// Route::get('/', function () {
+//     return view('welcome');
+// });
+
 Route::get('/', function () {
-    return view('welcome');
+    return redirect()->route('home');
 });
 
 
